@@ -6,7 +6,7 @@
 ## Description
 Use this service to take and store notes to help better organize your thoughts and plans.
     
-  View the application at [Note Taker](https://ccffdead.github.io/note-taker/).
+  View the application at [Note Taker](https://ccffdead-note-taker.herokuapp.com/).
 ## Contents
 * [License: ](#license:-)
 * [Installation: ](#installation:-)

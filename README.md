@@ -31,9 +31,6 @@ Use this service to take and store notes to help better organize your thoughts a
   ## Contact: 
   If you have any further questions, please contact me at ccffdead@gmail.com. You can also find any addtional files at (https://github.com/note-taker/ccffdead). Thanks!
   
-  ## Test: 
-  To use our applictaion install ``` If issues persist, please log them on the repos' 'Issues' tab. ``` and run `node index.js` from your terminal.
-  
   ## Contribution: 
   Enjoy the product!
   
